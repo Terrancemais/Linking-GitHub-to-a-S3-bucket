@@ -1,2 +1,2 @@
-# Linking-GitHub-to-a-S3-bucket
+# Using AWS Codepipeline to move a project code from GitHub to S3 Bucket
 HTML
