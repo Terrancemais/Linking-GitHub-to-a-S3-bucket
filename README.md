@@ -3,8 +3,8 @@ This Project was practice using a AWS Codepipline to automate a static website o
 
 
 Steps:
-Create a simple index.html file on the local host and commit/upload it to your GitHub repository.
-**Create S3 bucket.**
+1. Create a simple index.html file on the local host and commit/upload it to your GitHub repository.
+2. **Create S3 bucket.**
 Configure the bucket to allow public access & upload the index file to the bucket.
 Allow for static website hosting on the bucket.
 Create a pipeline using AWS code pipeline.
